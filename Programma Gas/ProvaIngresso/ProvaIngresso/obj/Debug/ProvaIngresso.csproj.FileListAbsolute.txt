@@ -1,0 +1,7 @@
+C:\Users\Utente\Desktop\Programma Gas\ProvaIngresso\ProvaIngresso\bin\Debug\ProvaIngresso.exe.config
+C:\Users\Utente\Desktop\Programma Gas\ProvaIngresso\ProvaIngresso\bin\Debug\ProvaIngresso.exe
+C:\Users\Utente\Desktop\Programma Gas\ProvaIngresso\ProvaIngresso\bin\Debug\ProvaIngresso.pdb
+C:\Users\Utente\Desktop\Programma Gas\ProvaIngresso\ProvaIngresso\obj\Debug\ProvaIngresso.csproj.AssemblyReference.cache
+C:\Users\Utente\Desktop\Programma Gas\ProvaIngresso\ProvaIngresso\obj\Debug\ProvaIngresso.csproj.CoreCompileInputs.cache
+C:\Users\Utente\Desktop\Programma Gas\ProvaIngresso\ProvaIngresso\obj\Debug\ProvaIngresso.exe
+C:\Users\Utente\Desktop\Programma Gas\ProvaIngresso\ProvaIngresso\obj\Debug\ProvaIngresso.pdb
